@@ -6,6 +6,4 @@ demo repo try
 #### ***H4***
 ##### ***H5***
 ###### ***H6***
-***BECAUSE***
-![logo](https://media.tenor.com/VV9PEOKhTzcAAAAe/aamir-khan-hakla-sharukh-khan.png)
-![logo](https://media.tenor.com/jG_DrbYdoQkAAAAe/hakla-shah-rukh-khan.png)
+***BECAUSE**
